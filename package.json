@@ -1,0 +1,19 @@
+{
+  "name": "nerfed-phish",
+  "version": "1.0.0",
+  "description": "A toolkit to detect phishing sites by URL and source analysis.",
+  "main": "phish.js",
+  "scripts": {
+    "test": "node phish.js https://google.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varospaxo/nerfed-phish.git"
+  },
+  "author": "varospaxo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varospaxo/nerfed-phish/issues"
+  },
+  "homepage": "https://github.com/varospaxo/nerfed-phish#readme"
+}
